@@ -2,16 +2,16 @@
 
 <h2>Задание 1 - RideCleanisingExercise</h2>
 
-!(ride-cleansing.jpg)
+![nerd emoji meme](ride-cleansing.jpg)
 
 <h2>Задание 2 - RidesAndFaresExercise</h2>
 
-!(rides-and-fares.jpg)
+![nerd emoji meme](rides-and-fares.jpg)
 
 <h2>Задание 3 - HourlyTipsExerсise</h2>
 
-!(hourly-tips.jpg)
+![nerd emoji meme](hourly-tips.jpg)
 
 <h2>Задание 4 - LongRideAlertsExercise</h2>
 
-!(long-rides-alerts.jpg)
+![nerd emoji meme](long-rides-alerts.jpg)
